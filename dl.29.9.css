@@ -1,0 +1,163 @@
+.head {
+  width: 100%;
+  border: 2px solid whitesmoke;
+  height: 800px;
+  margin: 0 auto;
+  background-color: rgb(56, 84, 211);
+}
+
+#head1 {
+  border: 4px solid rgb(27, 25, 25);
+  border-radius: 20px;
+  margin-left: 400px;
+  background-color: rgb(44, 211, 211);
+  width: 300px;
+  height: 100px;
+  margin-top: 50px;
+  text-align: center;
+}
+h1 {
+  margin-top: -65px;
+}
+
+#jackson {
+  margin-top: 70px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+
+#Electronics {
+  margin-top: 5px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#Name {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+#name1 {
+  margin-left: 111px;
+  width: 191px;
+}
+#name2 {
+  margin-top: 5px;
+  margin-left: 113px;
+  width: 190px;
+}
+#Address {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+
+#nhapaddress1 {
+  margin-left: 110px;
+  width: 190px;
+  margin-bottom: 5px;
+}
+#nhapaddress2 {
+  margin-left: 110px;
+  width: 190px;
+}
+#City {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+#nhapcity {
+  margin-left: 155px;
+  width: 140px;
+}
+#nhapstate {
+  width: 40px;
+}
+#nhapzip {
+  width: 80px;
+}
+#Country {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+#nhapcountry {
+  margin-left: 130px;
+  width: 140px;
+}
+#product {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+#nhapproduct {
+  margin-left: 132px;
+  width: 200px;
+  width: 150px;
+}
+#date {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+#nhapdate {
+  margin-left: 90px;
+  width: 350px;
+}
+#serial {
+  margin-left: 280px;
+  margin-bottom: 5px;
+}
+#nhapserial {
+  margin-left: 132px;
+  width: 400px;
+}
+
+#home {
+  margin-left: 132px;
+}
+#education {
+  margin-left: 153px;
+}
+#business {
+  margin-left: 196px;
+}
+#govermment {
+  margin-left: 196px;
+}
+#system {
+  margin-left: 280px;
+  margin-bottom: 10px;
+}
+#unix {
+  margin-left: 63px;
+}
+#macintosh {
+  margin-left: 196px;
+}
+#comments {
+  margin-left: 280px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+#other_checkbox {
+  margin-left: 55px;
+}
+#nhap {
+  margin-left: 100px;
+  width: 500px;
+  height: 100px;
+}
+
+#used_for {
+  margin-left: 280px;
+}
+#other {
+  margin-left: 135px;
+}
+#submit {
+  margin-left: 500px;
+}
